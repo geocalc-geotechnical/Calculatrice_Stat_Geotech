@@ -37,7 +37,7 @@ La version gratuite n'a **aucune limite de données**.
 
 1. Téléchargez l'archive `.zip` depuis la page [Releases](../../releases/latest).
 2. **Décompressez-la entièrement** (clic droit ▸ « Extraire tout… »). Ne lancez pas le programme depuis l'intérieur du zip.
-3. Double-cliquez sur `CalculatriceStatGeotech.exe`. Le démarrage prend quelques secondes.
+3. Double-cliquez sur `GeoCalc.exe`. Le démarrage prend quelques secondes.
 
 > **Windows SmartScreen** peut afficher « Windows a protégé votre ordinateur » : le logiciel est diffusé par un éditeur indépendant et n'est pas signé. Cliquez sur « Informations complémentaires » puis « Exécuter quand même ». Vous pouvez vérifier l'intégrité du fichier avec l'empreinte SHA-256 indiquée dans les notes de version.
 
@@ -49,7 +49,7 @@ Cliquez sur **Jeu d'exemple** pour essayer chaque onglet immédiatement.
 2. Envoyez-le-moi : geocalc.geotechnical@gmail.com
 3. Collez la clé reçue dans la fenêtre d'activation : la version PRO s'ouvre immédiatement.
 
-L'activation se fait **hors ligne** (aucun serveur, aucune donnée envoyée). La clé est personnelle et liée à votre ordinateur. Licence PRO : 48.99 €. Essai de 14 jours possible sur demande.
+L'activation se fait **hors ligne** (aucun serveur, aucune donnée envoyée). La clé est personnelle et liée à votre ordinateur. Licence PRO : 48,99 €. Essai de 14 jours possible sur demande.
 
 ## Questions fréquentes
 
