@@ -8,7 +8,7 @@ Analysez vos essais de sol sans refaire les mêmes calculs dans un tableur : val
 
 **Windows 10 / 11 · aucune installation · fonctionne hors ligne : vos données ne quittent jamais votre ordinateur.**
 
-👉 **[Télécharger la version gratuite](../../releases/latest)**  ·  🎬 [Voir la démonstration](https://www.linkedin.com/) <!-- remplacez par le lien de votre post -->
+👉 **[Télécharger la version gratuite](../../releases/latest)**  
 
 ![Valeurs caractéristiques Eurocode 7](images/valeurs-caracteristiques.png)
 
@@ -46,10 +46,10 @@ Cliquez sur **Jeu d'exemple** pour essayer chaque onglet immédiatement.
 ## Passer en PRO
 
 1. Dans le logiciel : bouton **Passer en PRO** (en haut à droite). Copiez votre **code poste**.
-2. Envoyez-le-moi : [contact / message privé LinkedIn].
+2. Envoyez-le-moi : geocalc.geotechnical@gmail.com
 3. Collez la clé reçue dans la fenêtre d'activation : la version PRO s'ouvre immédiatement.
 
-L'activation se fait **hors ligne** (aucun serveur, aucune donnée envoyée). La clé est personnelle et liée à votre ordinateur. Licence PRO : [prix] € HT. Essai de 14 jours possible sur demande.
+L'activation se fait **hors ligne** (aucun serveur, aucune donnée envoyée). La clé est personnelle et liée à votre ordinateur. Licence PRO : 48.99 €. Essai de 14 jours possible sur demande.
 
 ## Questions fréquentes
 
@@ -61,6 +61,6 @@ L'activation se fait **hors ligne** (aucun serveur, aucune donnée envoyée). La
 ## Licence et contact
 
 Logiciel propriétaire, tous droits réservés. La version gratuite est utilisable gratuitement, y compris à titre professionnel ; conditions complètes dans `CONDITIONS_UTILISATION.txt` (fourni dans l'archive).
-Contact : [votre nom] · [LinkedIn / e-mail].
+Contact : geocalc.geotechnical@gmail.com
 
 *Les captures utilisent un jeu de données fictif.*
