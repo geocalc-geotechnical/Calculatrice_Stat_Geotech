@@ -11,12 +11,12 @@ Première version publique : version gratuite + version PRO.
 - Synthèse par couche, rapports Word / PDF / Excel, projets enregistrables
 
 ### Installation
-Décompressez **entièrement** l'archive, puis lancez `CalculatriceStatGeotech.exe` (Windows 10 / 11, 64 bits). Si Windows SmartScreen s'affiche : « Informations complémentaires » ▸ « Exécuter quand même ».
+Décompressez **entièrement** l'archive, puis lancez `GeoCalc.exe` (Windows 10 / 11, 64 bits). Si Windows SmartScreen s'affiche : « Informations complémentaires » ▸ « Exécuter quand même ».
 
 ### Vérification du fichier
-SHA-256 de `CalculatriceStatGeotech_v2.0.0_Windows_dossier.zip` :
+SHA-256 de `GeoCalc_v2.0.0_Windows.zip` :
 ```
-de9bc02dda630ca14f5ab81a2acf7968e0dd369b2835dd7ea79a6e91aed5f4a1  CalculatriceStatGeotech_v2.0.0_Windows_dossier.zip
+29619f3c6d70d71c4a97c440b032232678ae6ac6cbd5cf098b31cce74465545f  GeoCalc_v2.0.0_Windows.zip
 ```
 
 Les résultats sont des aides à l'analyse, à vérifier et à interpréter par un ingénieur qualifié.
