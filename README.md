@@ -10,6 +10,8 @@ Analysez vos essais de sol sans refaire les mêmes calculs dans un tableur : val
 
 **Windows 10 / 11 · aucune installation · fonctionne hors ligne : vos données ne quittent jamais votre ordinateur.**
 
+🌍 **Deux langues dans le même programme : français et English** (menu Aide ▸ Langue / Language). Il s'ouvre dans la langue de Windows ; le changement garde vos données.
+
 👉 **[Télécharger la version gratuite](../../releases/latest)**  
 
 ![Valeurs caractéristiques Eurocode 7](images/valeurs-caracteristiques.png)
@@ -18,7 +20,7 @@ Analysez vos essais de sol sans refaire les mêmes calculs dans un tableur : val
 
 | | Gratuit | PRO |
 |---|:---:|:---:|
-| Import CSV / Excel / copier-coller (virgules françaises, titres, milliers) | ✅ | ✅ |
+| Import CSV / Excel / copier-coller (virgule ou point décimal, titres, milliers) | ✅ | ✅ |
 | Statistiques descriptives et histogrammes | ✅ | ✅ |
 | 4 tests de valeurs aberrantes (Grubbs, Dixon, Chauvenet, IQR), exclusion en un clic | ✅ | ✅ |
 | Lois normale / log-normale : Shapiro-Wilk, Lilliefors, Anderson-Darling, droites de Henry | ✅ | ✅ |

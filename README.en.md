@@ -10,15 +10,13 @@ Analyse your soil test results without redoing the same calculations in a spread
 
 **Windows 10 / 11 · no installation · works offline: your data never leaves your computer.**
 
-> ### 🇬🇧 English interface: coming soon
-> The current version of GeoCalc has a **French interface**. Charts and numbers are universal, but the menus and explanations are in French.
-> Before translating it, I would like to know how many engineers would use an English version.
-> **[👉 Join the waiting list](mailto:geocalc.geotechnical@gmail.com?subject=GeoCalc%20English%20version%20-%20waiting%20list)** (one e-mail, no newsletter — I will only write to you when the English version is ready).
+> ### 🇬🇧 Now in English — and in French
+> Since **version 2.1**, GeoCalc ships **both languages in the same program**: menus, results, explanations, charts and Word / PDF / Excel reports.
+> It opens in the language of Windows; switch any time with **Help ▸ Langue / Language** — the software restarts and keeps your data.
 
-👉 **[Download the current version (French interface)](../../releases/latest)**
+👉 **[Download the latest version](../../releases/latest)**
 
-![Eurocode 7 characteristic values](images/valeurs-caracteristiques.png)
-*Screenshots show the current French interface.*
+![Eurocode 7 characteristic values](images/en/characteristic-values.png)
 
 ## What GeoCalc does
 
@@ -38,8 +36,8 @@ Analyse your soil test results without redoing the same calculations in a spread
 
 The free version has **no data limit**.
 
-![Layer summary (PRO)](images/synthese-par-couche.png)
-![Kriging map (PRO)](images/krigeage.png)
+![Layer summary (PRO)](images/en/layer-summary.png)
+![Kriging map (PRO)](images/en/kriging-map.png)
 
 ## Installation
 
@@ -49,11 +47,11 @@ The free version has **no data limit**.
 
 > **Windows SmartScreen** may show "Windows protected your PC": the software is published by an independent developer and is not code-signed. Click "More info" then "Run anyway". You can check the file's integrity with the SHA-256 hash given in the release notes.
 
-Click **Jeu d'exemple** (example data) to try every tab immediately.
+Click **Sample dataset** to try every tab immediately.
 
 ## Upgrading to PRO
 
-1. In the software, click **Passer en PRO** (top right) and copy your **machine code**.
+1. In the software, click **Go PRO** (top right) and copy your **machine code**.
 2. Send it to me: geocalc.geotechnical@gmail.com
 3. Paste the key you receive into the activation window: PRO unlocks immediately.
 
@@ -72,3 +70,5 @@ Proprietary software, all rights reserved. The free version may be used free of 
 Contact: geocalc.geotechnical@gmail.com
 
 *Screenshots use fictitious data.*
+
+Need another language? French and English are available today; tell me which one you would need next: geocalc.geotechnical@gmail.com
