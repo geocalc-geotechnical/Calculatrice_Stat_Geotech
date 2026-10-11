@@ -60,7 +60,7 @@ L'activation se fait **hors ligne** (aucun serveur, aucune donnée envoyée). La
 
 ## Licence et contact
 
-Logiciel propriétaire, tous droits réservés. La version gratuite est utilisable gratuitement, y compris à titre professionnel ; conditions complètes dans `CONDITIONS_UTILISATION.txt` (fourni dans l'archive).
+Logiciel propriétaire, tous droits réservés. La version gratuite est utilisable gratuitement, y compris à titre professionnel ; conditions d'utilisation : sur demande à geocalc.geotechnical@gmail.com.
 Contact : geocalc.geotechnical@gmail.com
 
 *Les captures utilisent un jeu de données fictif.*
