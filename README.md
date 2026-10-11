@@ -2,6 +2,8 @@
   <img src="images/logo.png" alt="GeoCalc" width="220">
 </p>
 
+<p align="center">🇫🇷 Français · <a href="README.en.md">🇬🇧 English</a></p>
+
 # GeoCalc — calculatrice statistique pour géotechniciens
 
 Analysez vos essais de sol sans refaire les mêmes calculs dans un tableur : valeurs aberrantes, lois de distribution, valeurs caractéristiques de l'**Eurocode 7**, régressions, et en version PRO krigeage, fiabilité et rapports prêts à remettre.
