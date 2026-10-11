@@ -16,7 +16,7 @@ Décompressez **entièrement** l'archive, puis lancez `GeoCalc.exe` (Windows 10 
 ### Vérification du fichier
 SHA-256 de `GeoCalc_v2.0.0_Windows.zip` :
 ```
-29619f3c6d70d71c4a97c440b032232678ae6ac6cbd5cf098b31cce74465545f  GeoCalc_v2.0.0_Windows.zip
+88da7f4ba28857d0a38d9792bd2b0290c79c4f9724014a9593549c4a32023e88  GeoCalc_v2.0.0_Windows.zip
 ```
 
 Les résultats sont des aides à l'analyse, à vérifier et à interpréter par un ingénieur qualifié.
